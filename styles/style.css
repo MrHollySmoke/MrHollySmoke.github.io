@@ -581,7 +581,7 @@ nav {
 footer {
   width: 1440px;
   height: 160px;
-  background-color: var(--second-bg-color);
+  background-color: #000000;
   margin: 0 auto;
 }
 
@@ -617,7 +617,7 @@ footer {
 
 @media only screen and (max-width: 1440px) {
   body {
-    background-color: #39a78e;
+    background-color: #ffffff;
   }
   .sub_lvl_word {
     left: 149px;
